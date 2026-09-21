@@ -57,7 +57,7 @@ A fast, zero-ad, privacy-first multi-tool platform — built because most utilit
 | Repo | Description | Stack |
 |---|---|---|
 | [BLITZ](https://github.com/sharmamayank20/BLITZ) | Fast, modular multi-tool web app — password generator/strength checker, date/time calculator, unit converter, and more | `HTML` `CSS` `JavaScript` |
-| [TOOLVERSE-backup](https://github.com/sharmamayank20/TOOLVERSE-backup) | Privacy-first web utility suite with an expanding dashboard of essential tools | `JavaScript` |
+| [TOOLVERSE](https://github.com/sharmamayank20/TOOLVERSE) | Privacy-first web utility suite with an expanding dashboard of essential tools | `JavaScript` |
 | [VIGIL](https://github.com/sharmamayank20/VIGIL) | Security-focused utility project | `HTML` |
 
 ---
@@ -87,10 +87,10 @@ A fast, zero-ad, privacy-first multi-tool platform — built because most utilit
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sharmamayank20&show_icons=true&theme=tokyonight&hide_border=true" alt="Mayank's GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sharmamayank20&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Mayank's GitHub Stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmamayank20&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmamayank20&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmamayank20&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" height="165"/>
 
 </div>
 
