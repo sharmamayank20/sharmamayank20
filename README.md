@@ -52,7 +52,26 @@ tool — to remove friction, never to skip understanding what's actually
 happening underneath.
 </details>
 
+---
+
+### GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sharmamayank20&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&cache_seconds=86400" height="150" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmamayank20&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
+
 <br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharmamayank20&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sharmamayank20&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies"/>
+
+</div>
+
+---
 
 <div align="center">
 
