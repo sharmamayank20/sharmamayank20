@@ -1,89 +1,109 @@
 <div align="center">
 
-# ⚡ Mayank Sharma (`sharmamayank20`)
+# Hi, I'm Mayank Sharma 👋
 
-<p align="center">
-  <b>4th-Year CS Student Specializing in Cybersecurity → Pivoting into Cloud Infrastructure & DevOps</b><br>
-  <i>"Break stuff to learn. Containerize everything to fix it. Build resilient systems from layer zero."</i>
-</p>
+### Cybersecurity → Cloud Infrastructure & DevOps
 
-<!-- Interactive Badges Banner -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/mayank--sharmaa/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://sharmamayank20.github.io/TOOLVERSE">
-    <img src="https://img.shields.io/badge/Live_App-TOOLVERSE-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TOOLVERSE Live" />
-  </a>
-  <a href="https://github.com/sharmamayank20?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-7_Public-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-  </a>
-  <a href="mailto:mayank.sharma.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Direct_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+**4th-Year B.Tech CS student (Cybersecurity)** building resilient, secure systems from the ground up — and actively pursuing a **Cloud Solutions Architect / DevOps Engineer** role.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank--sharmaa/)
+[![TOOLVERSE Live](https://img.shields.io/badge/Live_App-TOOLVERSE-263EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sharmamayank20.github.io/TOOLVERSE)
+[![Repositories](https://img.shields.io/badge/Repositories-7_Public-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharmamayank20?tab=repositories)
 
 </div>
 
 ---
 
-### 👨‍💻 `whoami` & Terminal Matrix
+## 🧭 About Me
 
-```bash
-$ cat << 'EOF' > developer_profile.json
-{
-  "name": "Mayank Sharma",
-  "education": "4th-Year B.Tech Computer Science (Cybersecurity Specialization)",
-  "target_roles": ["Cloud Solutions Architect", "DevOps Engineer", "Cloud Security Engineer"],
-  "core_principles": [
-    "Security-First Architecture (Zero Trust by default)",
-    "Immutable Infrastructure via Docker containerization",
-    "Practical Utility > Portfolio Fluff",
-    "AI Workflows as an engineering force multiplier"
-  ],
-  "current_status": "Containerizing multi-tool applications, writing OSINT engines, and hardening Linux environments."
-}
-EOF
+I focus on **building, scaling, and securing resilient software systems** from the ground up. Driven by practical utility and open-source principles, I use modern AI-assisted workflows to solve real friction — while making sure security and reliability are baked into every layer of the architecture, not bolted on afterward.
 
+- 🎓 4th-year Computer Science student, specializing in **Cybersecurity**
+- ☁️ Currently deepening my hands-on skills in **cloud infrastructure & DevOps**
+- 🛠️ Toolkit: **Linux administration · Docker · AWS · Cloud Security · Full-Stack Web Dev · REST APIs · Git**
+- 🎯 Looking for roles as a **Cloud Solutions Architect** or **DevOps Engineer**, designing scalable, secure cloud environments and streamlining enterprise deployment workflows
+- 💬 Ask me about: Linux hardening, Docker networking, OSINT automation pipelines, or building developer tooling
 
+---
 
+## 🔬 Featured Projects
 
-🛠️ Interactive Technical Arsenal
-🔬 Featured Projects & Architectures
-🛡️ 1. OSINT-Toolkit
-Automated Reconnaissance & Threat Intelligence Engine
+### 🛡️ [OSINT-Toolkit](https://github.com/sharmamayank20/osint-toolkit)
+**Automated Reconnaissance & Threat Intelligence Engine**
 
-The Problem: Security reconnaissance often involves running fragmented scripts, manually processing raw API responses, and managing rate-limit bottlenecks.
+A modular, containerized OSINT automation engine built for domain footprinting, attack-surface mapping, and threat-intel aggregation — designed to replace fragmented recon scripts with one deterministic pipeline.
 
-The Solution: A modular, containerized OSINT automation engine designed for domain footprinting, attack surface mapping, and threat intel aggregation.
+- 🔒 **Isolated Execution:** Packaged in Docker to sandbox host systems and keep behavior consistent across Linux environments
+- 🔌 **Pipeline Integration:** Aggregates WHOIS records, DNS enumeration, and threat-intel feeds into a single workflow
+- 📄 **Structured Output:** Converts raw data into clean, structured JSON/Markdown reports for analysis
 
-Technical Highlights:
+`Python` `Docker` `OSINT` `Threat Intelligence`
 
-Isolated Execution Sandbox: Packaged inside Docker to shield host operating systems and ensure deterministic behavior across Linux environments.
+### 🌐 [TOOLVERSE](https://github.com/sharmamayank20/TOOLVERSE) · [🚀 Live App](https://sharmamayank20.github.io/TOOLVERSE)
+**All-in-One Modular Web & Developer Utility Platform**
 
-API & Pipeline Integration: Aggregates OSINT parameters, WHOIS records, DNS enumerators, and threat intelligence feeds.
+A fast, zero-ad, privacy-first multi-tool platform — built because most utility sites are bloated with trackers and slow server round-trips for computations that should happen instantly, client-side.
 
-Structured Intelligence Output: Sanitizes raw data feeds into structured JSON/Markdown reports for security analysis.
+- ⚡ **Zero-Latency Engine:** Pure JavaScript using native browser APIs — everything runs in-memory on the client
+- 🔁 **CI/CD:** Automated builds and deployments via GitHub Actions on every push
+- 🧩 **Extensible by Design:** New tools plug in without touching existing functionality
 
-🌐 2. TOOLVERSE | 🚀 Launch Live App
-All-in-One Modular Web & Developer Utility Platform
+`JavaScript` `GitHub Actions` `Client-Side Architecture`
 
-The Problem: Most online web utility tools are loaded with ad banners, user tracking scripts, and slow server-side round trips for basic computations.
+---
 
-The Solution: A high-speed, zero-ad multi-tool platform hosting essential web, network, and developer tools executing directly inside client memory.
+## 📂 Other Projects
 
-Technical Highlights:
+| Repo | Description | Stack |
+|---|---|---|
+| [BLITZ](https://github.com/sharmamayank20/BLITZ) | Fast, modular multi-tool web app — password generator/strength checker, date/time calculator, unit converter, and more | `HTML` `CSS` `JavaScript` |
+| [TOOLVERSE-backup](https://github.com/sharmamayank20/TOOLVERSE-backup) | Privacy-first web utility suite with an expanding dashboard of essential tools | `JavaScript` |
+| [VIGIL](https://github.com/sharmamayank20/VIGIL) | Security-focused utility project | `HTML` |
 
-Zero-Latency Client-Side Engine: Written in modular JavaScript utilizing native browser APIs for instantaneous processing.
+---
 
-Automated CI/CD Pipeline: Integrated with GitHub Actions for instant builds and deployments upon git commit pushes.
+## 🧰 Tech Stack
 
-Extensible Architecture: Designed as a plug-and-play architecture where new utilities can be introduced with zero side-effects.
+**Cloud & Infra**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-📊 Live GitHub Analytics
-🤝 Connect & Discuss Infrastructure
-💼 LinkedIn: mayank--sharmaa
+**Languages & Dev**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-🌐 Live Web Utility Platform: TOOLVERSE
+**Security**
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&logo=hackthebox&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-4B0082?style=flat-square&logo=alienvault&logoColor=white)
 
-💬 Ask Me About: Linux security hardening, Docker networking, OSINT automated pipelines, or building developer tooling.
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sharmamayank20&show_icons=true&theme=tokyonight&hide_border=true" alt="Mayank's GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmamayank20&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmamayank20&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank--sharmaa/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharmamayank20)
+[![TOOLVERSE](https://img.shields.io/badge/TOOLVERSE-Live_Demo-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sharmamayank20.github.io/TOOLVERSE)
+
+*"Break stuff to learn. Containerize everything to fix it. Build resilient systems from layer zero."*
+
+</div>
