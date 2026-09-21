@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# 👋 Hi, I'm [Your Name]
+
+```javascript
+const developer = {
+    name: "[Your Name]",
+    role: "Full-Stack & Systems Engineer",
+    focus: ["Real-time Networking", "DevOps & Cloud Architecture"],
+    currentTech: ["React", "Node.js", "Docker", "WebRTC"]
+};
